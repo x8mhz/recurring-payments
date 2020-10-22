@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "idHb1R2ojBRNi9qr4ttd604ySPeY1bACjTI62TJmmIGoYX5u9FwXgudUAazWlyRd7PckK/jdZV4ySHMHfL4JCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\Payment\\src\\Payment.Domain\\Payment.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fabri\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fabri\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
